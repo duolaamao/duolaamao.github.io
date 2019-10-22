@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://51siciyuan.com/"/>
-  <updated>2019-10-21T04:04:53.312Z</updated>
+  <updated>2019-10-22T02:55:51.591Z</updated>
   <id>https://51siciyuan.com/</id>
   
   <author>
@@ -17,19 +17,409 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Java项目案例之我的JavaQQ聊天工具</title>
-    <link href="https://51siciyuan.com/posts/1dc30fef.html"/>
-    <id>https://51siciyuan.com/posts/1dc30fef.html</id>
-    <published>2019-10-21T04:02:26.000Z</published>
-    <updated>2019-10-21T04:04:53.312Z</updated>
+    <title>部署落地+业务迁移 玩转k8s进阶与企业级实践技能</title>
+    <link href="https://51siciyuan.com/posts/85d48c25.html"/>
+    <id>https://51siciyuan.com/posts/85d48c25.html</id>
+    <published>2019-10-22T02:54:40.000Z</published>
+    <updated>2019-10-22T02:55:51.591Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>Java是一门面向对象编程语言，不仅吸收了语言的各种优点，还摒弃了C++里难以理解的多继承等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程，这个课程我们来用java做一个类似QQ一样的聊天工具。</p><p><img src="https://s2.ax1x.com/2019/10/21/KQOL4S.png" alt="KQOL4S.png"></p><p><img src="https://s2.ax1x.com/2019/10/21/KQXSun.png" alt="KQXSun.png"></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>Kubernetes早在2017年底就已成为容器编排领域的事实标准，时至今日，围绕着Kubernetes的生态持续爆发。除了Google、BAT、京东、美团等巨头大厂外，越来越多的中小互联网企业也都在向Kubernetes迁移。容器技术大势所趋，已逐渐成为开发/运维工程师、架构师的必备技能之一。本门课程从集群部署到业务迁移、持续集成再到核心知识点梳理，不仅可以帮助有志从事Kubernetes相关工作的同学做基本的入门指导，也可以帮助有一定基础的工程师快速实现k8s生产落地，少走弯路，避免踩坑。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3JgIJ.png" alt="K3JgIJ.png"></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;Java是一门面向对象编程语言，不仅吸收了语言的各种优点，还摒弃了C++里难以理解的多继承等
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;Kubernetes早在2017年底就已成为容器编排领域的事实标准，时至今日，围绕着Kube
+      
+    
+    </summary>
+    
+    
+      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
+    
+    
+      <category term="Kubernetes" scheme="https://51siciyuan.com/tags/Kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>百度资深工程师 全方位讲解测试面试</title>
+    <link href="https://51siciyuan.com/posts/8f2fee.html"/>
+    <id>https://51siciyuan.com/posts/8f2fee.html</id>
+    <published>2019-10-22T02:51:27.000Z</published>
+    <updated>2019-10-22T02:53:57.238Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>课程主要以面试流程为主线。从面试官的角度为大家讲解，面试中的重难点以及注意事项。全方位无死角的打造你的面试技巧，以及每一个技术细节。课程内容从高级编程、Web自动化测试、接口自动化测试、性能测试到MySQL、Linux全部包含在内，更有面试指导，以及大厂内荐，让你不惧面试，稳拿offer。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3J8r8.jpg" alt="K3J8r8.jpg"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3JYVg.png" alt="K3JYVg.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;课程主要以面试流程为主线。从面试官的角度为大家讲解，面试中的重难点以及注意事项。全方位无死角
+      
+    
+    </summary>
+    
+    
+      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
+    
+    
+      <category term="测试" scheme="https://51siciyuan.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LoadRunner性能测试实战训练营</title>
+    <link href="https://51siciyuan.com/posts/a40c714a.html"/>
+    <id>https://51siciyuan.com/posts/a40c714a.html</id>
+    <published>2019-10-22T02:49:16.000Z</published>
+    <updated>2019-10-22T02:50:35.809Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>课程从基础到真实项目实战，全面系统带你学习性能测试，让你完全掌握性能测试的全流程、主流工具（ LoadRunnner）使用、测试脚本开发、场景设计以及测试结果分析，让你学会如何在真实项目中进行性能测试，以及如何对结果进行分析与调优</p><p><img src="https://s2.ax1x.com/2019/10/22/K3JAKK.png" alt="K3JAKK.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;课程从基础到真实项目实战，全面系统带你学习性能测试，让你完全掌握性能测试的全流程、主流工具（
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://51siciyuan.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="LoadRunner" scheme="https://51siciyuan.com/tags/LoadRunner/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java电商秒杀系统深度优化 从容应对亿级流量挑战</title>
+    <link href="https://51siciyuan.com/posts/683bcf56.html"/>
+    <id>https://51siciyuan.com/posts/683bcf56.html</id>
+    <published>2019-10-22T02:46:09.000Z</published>
+    <updated>2019-10-22T02:48:10.886Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>课程中借由“电商秒杀”案例，通过多种性能优化技术，总结了互联网项目中“秒杀”的经典性能优化方案技术，提供了统一的设计思维和思考方式，帮助同学们真正理解性能优化中每个技术的使用以及背后的原理。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3Gb3q.png" alt="K3Gb3q.png"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3GvbF.png" alt="K3GvbF.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;课程中借由“电商秒杀”案例，通过多种性能优化技术，总结了互联网项目中“秒杀”的经典性能优化方
+      
+    
+    </summary>
+    
+    
+      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
+    
+    
+      <category term="Java" scheme="https://51siciyuan.com/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【北风】Golang语言快速上手到综合实战（Go语言、Beego框架、高并发聊天室、豆瓣电影爬虫）</title>
+    <link href="https://51siciyuan.com/posts/9f0d4117.html"/>
+    <id>https://51siciyuan.com/posts/9f0d4117.html</id>
+    <published>2019-10-22T02:13:07.000Z</published>
+    <updated>2019-10-22T02:15:54.492Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>本教程从基础的Golang语言语法开始讲起，介绍了Golang的数据类型（包括基础类型与复合类型）以及分支与循环结构，进而深入地介绍了Golang语言的类与继承，以及与其他语言如Java、C++等的诸多不同，尤其是Go语言非侵入式的接口设计，其体现了Go语言设计的独到之处。紧接着，对Go语言中的并发概念-协程与channel进行了深入分析，力求让学员搞清楚协程与线程的区别。在上述基础上，会带领学员们开发一个高并发聊天室（得益于Go协程的轻量级特性）。接下来，会介绍Go语言在web开发上的应用并且以Beego框架为主进行介绍；在介绍完Beego的基础应用后，带领大家编写一个豆瓣电影爬虫的项目，让学员对Beego的使用更加熟练，同时对爬虫的相关理论与实践也有所了解。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3lyQO.png" alt="K3lyQO.png"></p><p><strong>课程目录：</strong></p><blockquote><p>第1讲 Go语言简介</p><p>第2讲 理解GOPATH</p><p>第3讲 Go语言基础上</p><p>第4讲 Go语言基础下</p><p>第5讲 Go语言之流程控制</p><p>第6讲 Go语言之函数上</p><p>第7讲 Go语言之函数下</p><p>第8讲 Go语言之struct</p><p>第9讲 Go语言之面向对象上</p><p>第10讲 Go语言之面向对象下_1</p><p>第10讲 Go语言之面向对象下_2</p><p>第11讲 Go语言并发编程之协程</p><p>第12讲 Go语言并发编程之channel</p><p>第13讲 Go语言并发编程之缓冲channel</p><p>第14讲 Go语言并发编程之select</p><p>第15讲 Go语言并发编程之深入协程</p><p>第16讲 Go语言之JSON与Md5</p><p>第17讲 Go语言之HTTP</p><p>第18讲 Go语言之正则表达式_1</p><p>第18讲 Go语言之正则表达式_2</p><p>第19讲 Go语言之Mysql_1</p><p>第19讲 Go语言之Mysql_2</p><p>第20讲 Go语言之Redis</p><p>第21讲 Go语言之聊天室_1</p><p>第21讲 Go语言之聊天室_2</p><p>第21讲 Go语言之聊天室_3</p><p>第21讲 Go语言之聊天室_4</p><p>第22讲 Beego框架简介</p><p>第23讲 Beego框架之参数配置与路由配置</p><p>第24讲 Beego框架之Controller</p><p>第25讲 Beego框架之请求数据处理</p><p>第26讲 Beego框架之session机制</p><p>第27讲 Beego框架之model_1</p><p>第27讲 Beego框架之model_2</p><p>第27讲 Beego框架之model_3</p><p>第28讲 Beego框架之view</p><p>第29讲 Beego框架之config、httplib、context</p><p>第30讲 Beego框架之爬虫项目实战_1</p><p>第30讲 Beego框架之爬虫项目实战_2</p><p>第30讲 Beego框架之爬虫项目实战_3</p><p>第30讲 Beego框架之爬虫项目实战_4</p><p>第30讲 Beego框架之爬虫项目实战_5</p><p>第30讲 Beego框架之爬虫项目实战_6</p></blockquote><p><img src="https://s2.ax1x.com/2019/10/22/K3lTl8.png" alt="K3lTl8.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;本教程从基础的Golang语言语法开始讲起，介绍了Golang的数据类型（包括基础类型与复合
+      
+    
+    </summary>
+    
+    
+      <category term="编程" scheme="https://51siciyuan.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Golang" scheme="https://51siciyuan.com/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>玩转k8s进阶Kubernetes（k8s）生产级实践指南 从部署到核心应用</title>
+    <link href="https://51siciyuan.com/posts/c1ab409b.html"/>
+    <id>https://51siciyuan.com/posts/c1ab409b.html</id>
+    <published>2019-10-22T02:10:45.000Z</published>
+    <updated>2019-10-22T02:12:07.212Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>Kubernetes早在2017年底就已成为容器编排领域的事实标准，时至今日，围绕着Kubernetes的生态持续爆发。除了Google、BAT、京东、美团等巨头大厂外，越来越多的中小互联网企业也都在向Kubernetes迁移。容器技术大势所趋，已逐渐成为开发/运维工程师、架构师的必备技能之一。本门课程从集群部署到业务迁移、持续集成再到核心知识点梳理，不仅可以帮助有志从事Kubernetes相关工作的同学做基本的入门指导，也可以帮助有一定基础的工程师快速实现k8s生产落地，少走弯路，避免踩坑。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3QhxU.png" alt="K3QhxU.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;Kubernetes早在2017年底就已成为容器编排领域的事实标准，时至今日，围绕着Kube
+      
+    
+    </summary>
+    
+    
+      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
+    
+    
+      <category term="Kubernetes" scheme="https://51siciyuan.com/tags/Kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019新版前端开发工程师(完整阶段四)-Vue与React高级框架开发</title>
+    <link href="https://51siciyuan.com/posts/84038f1f.html"/>
+    <id>https://51siciyuan.com/posts/84038f1f.html</id>
+    <published>2019-10-22T02:08:35.000Z</published>
+    <updated>2019-10-22T02:10:04.030Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及pad等各种移动设备所看到的网页，都是由前端工程师做的。作为用户交互必不可少的环节，对前端工程师的需求量。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3Qn4x.png" alt="K3Qn4x.png"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3QDKg.png" alt="K3QDKg.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019新版前端开发工程师(完整阶段三)-WebAPP开发与小程序</title>
+    <link href="https://51siciyuan.com/posts/c81c3c14.html"/>
+    <id>https://51siciyuan.com/posts/c81c3c14.html</id>
+    <published>2019-10-22T02:06:37.000Z</published>
+    <updated>2019-10-22T02:08:06.359Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及pad等各种移动设备所看到的网页，都是由前端工程师做的。作为用户交互必不可少的环节，对前端工程师的需求量。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3QigU.png" alt="K3QigU.png"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3QFvF.png" alt="K3QFvF.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019新版前端开发工程师(完整阶段二)-组件化网页开发</title>
+    <link href="https://51siciyuan.com/posts/6f2864f0.html"/>
+    <id>https://51siciyuan.com/posts/6f2864f0.html</id>
+    <published>2019-10-22T02:04:38.000Z</published>
+    <updated>2019-10-22T02:06:07.326Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及pad等各种移动设备所看到的网页，都是由前端工程师做的。作为用户交互必不可少的环节，对前端工程师的需求量。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3MzEn.png" alt="K3MzEn.png"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3Qp40.png" alt="K3Qp40.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019新版前端开发工程师(完整阶段一)-前端零基础入门</title>
+    <link href="https://51siciyuan.com/posts/257f9cab.html"/>
+    <id>https://51siciyuan.com/posts/257f9cab.html</id>
+    <published>2019-10-22T02:00:32.000Z</published>
+    <updated>2019-10-22T02:04:07.847Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及pad等各种移动设备所看到的网页，都是由前端工程师做的。作为用户交互必不可少的环节，对前端工程师的需求量。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3KOT1.png" alt="K3KOT1.png"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3MSSO.png" alt="K3MSSO.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;前端工程师是目前非常受欢迎的一个职业，生活中Web端页面和移动端的界面、微信中的小程序，以及
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="https://51siciyuan.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中小型企业通用自动化运维架构</title>
+    <link href="https://51siciyuan.com/posts/28c5c9d3.html"/>
+    <id>https://51siciyuan.com/posts/28c5c9d3.html</id>
+    <published>2019-10-22T01:58:19.000Z</published>
+    <updated>2019-10-22T01:59:37.068Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>自动化运维是一个综合多个工具、依据具体业务需求的完整系统，本门课程将从具体的业务需求出发，给出一个通用的自动化运维系统架构， 并循序渐进的教你架构的实现方法，一步步带你实现一个自动化运维系统。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3KadI.png" alt="K3KadI.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;自动化运维是一个综合多个工具、依据具体业务需求的完整系统，本门课程将从具体的业务需求出发，给
+      
+    
+    </summary>
+    
+    
+      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
+    
+    
+      <category term="运维" scheme="https://51siciyuan.com/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>毕设利器 SSM到Spring Boot 从零开发校园商铺平台</title>
+    <link href="https://51siciyuan.com/posts/fe38ac70.html"/>
+    <id>https://51siciyuan.com/posts/fe38ac70.html</id>
+    <published>2019-10-22T01:55:08.000Z</published>
+    <updated>2019-10-22T01:57:23.834Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>本项目运用SSM技术快速迭代出版校园商铺1.0，再结合SSM转型成Spring Boot的思路，切换到校园商铺2.0。同时包含MySQL主从同步实现读写分离，利用SUI Mobile快速实现响应式页面，Redis缓存，数据库加密配置，阿里云部署等实用技术点。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3KZM4.jpg" alt="K3KZM4.jpg"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3Kli6.png" alt="K3Kli6.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;本项目运用SSM技术快速迭代出版校园商铺1.0，再结合SSM转型成Spring Boot的思
+      
+    
+    </summary>
+    
+    
+      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
+    
+    
+      <category term="Java" scheme="https://51siciyuan.com/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>21天Java进阶面试训练营</title>
+    <link href="https://51siciyuan.com/posts/857e4607.html"/>
+    <id>https://51siciyuan.com/posts/857e4607.html</id>
+    <published>2019-10-22T01:52:28.000Z</published>
+    <updated>2019-10-22T01:53:50.524Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>正常情况下，你这样干着，好像也没啥。然而一旦因为种种原因，你准备跳槽，问题就来了！</p><p>跳槽面试，尤其是去互联网公司面试，你平时工作的内容将淋漓尽致的体现在面试中，并且被无限放大</p><p>浏览招聘网站，准备简历的时候，你突然发现自己技术栈严重脱节掉队，好像就会一些框架的使用。</p><p>这么多年的工作经验，好像就只比刚入行的小年轻多做了一些CRUD的项目，别的似乎就没了！</p><p>好不容易，你拿到了一些一线大厂的面试机会。面试现场，面试官针对一些高阶技术点进行连环炮式的提问，你一脸茫然。</p><p>每次去大厂面试，出来总是汗流浃背，被虐的很惨。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3KPI0.png" alt="K3KPI0.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;正常情况下，你这样干着，好像也没啥。然而一旦因为种种原因，你准备跳槽，问题就来了！&lt;/p&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://51siciyuan.com/categories/Java/"/>
+    
+    
+      <category term="面试" scheme="https://51siciyuan.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>企业实战持续集成-Jenkins视频教程（必备技能）</title>
+    <link href="https://51siciyuan.com/posts/d1159bf0.html"/>
+    <id>https://51siciyuan.com/posts/d1159bf0.html</id>
+    <published>2019-10-22T01:49:30.000Z</published>
+    <updated>2019-10-22T01:52:07.530Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>课程目标</p><p>让我们的代码部署变得easy，不再难，Jenkins是一个可扩展的持续集成引擎，是一个开源软件项目，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能。Jenkins非常易于安装和配置，简单易用。</p><p>适用人群</p><p>适合所有IT人员、中级运维、初级运维、高级运维人员</p><p><img src="https://s2.ax1x.com/2019/10/22/K3ulvQ.png" alt="K3ulvQ.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;课程目标&lt;/p&gt;&lt;p&gt;让我们的代码部署变得easy，不再难，Jenkins是一个可扩展的持续
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://51siciyuan.com/categories/Java/"/>
+    
+    
+      <category term="Jenkins" scheme="https://51siciyuan.com/tags/Jenkins/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>马士兵-抽丝剥茧设计模式2019</title>
+    <link href="https://51siciyuan.com/posts/c944e296.html"/>
+    <id>https://51siciyuan.com/posts/c944e296.html</id>
+    <published>2019-10-22T01:46:06.000Z</published>
+    <updated>2019-10-22T01:48:38.690Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>一个技术点，看懂的难度如果是1的话，自己实现的难度就是3，融汇贯通应用在项目中，它的难度是10。</p><p>就像是练武学招数，看别人打很容易，自己练习就难了，各种招数融会贯通和对手实战，那是难上加难。</p><p>学就学点儿硬核的，这是我一直的观点。容易的东西，不值钱。</p><p><img src="https://s2.ax1x.com/2019/10/22/K3n00I.png" alt="K3n00I.png"></p><p><img src="https://s2.ax1x.com/2019/10/22/K3nrAP.png" alt="K3nrAP.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;一个技术点，看懂的难度如果是1的话，自己实现的难度就是3，融汇贯通应用在项目中，它的难度是1
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://51siciyuan.com/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://51siciyuan.com/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java项目案例之我的JavaQQ聊天工具</title>
+    <link href="https://51siciyuan.com/posts/1dc30fef.html"/>
+    <id>https://51siciyuan.com/posts/1dc30fef.html</id>
+    <published>2019-10-21T04:02:26.000Z</published>
+    <updated>2019-10-21T04:05:03.612Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>Java是一门面向对象编程语言，不仅吸收了语言的各种优点，还摒弃了C++里难以理解的多继承等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程，这个课程我们来用java做一个类似QQ一样的聊天工具。</p><p><img src="https://s2.ax1x.com/2019/10/21/KQOL4S.png" alt="KQOL4S.png"></p><p><img src="https://s2.ax1x.com/2019/10/21/KQXSun.png" alt="KQXSun.png"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;Java是一门面向对象编程语言，不仅吸收了语言的各种优点，还摒弃了C++里难以理解的多继承等
       
     
     </summary>
@@ -47,15 +437,15 @@
     <link href="https://51siciyuan.com/posts/b545ed1b.html"/>
     <id>https://51siciyuan.com/posts/b545ed1b.html</id>
     <published>2019-10-21T03:07:00.000Z</published>
-    <updated>2019-10-21T03:59:22.656Z</updated>
+    <updated>2019-10-21T04:05:03.611Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>《JAVA编程思想》这本书本身就很经典，但是对于现在快节奏的工作生活节奏，大家可能没有太多的时间去啃书本。</p><p>这样一来的话，大家可以先跟着视频来学习，走一遍之后再来啃书本，就会事倍功半了!</p><p><img src="https://s2.ax1x.com/2019/10/21/KQoiqS.png" alt="KQoiqS.png"></p><p>教程一共分为三部分：</p><blockquote><p>初级部分：JAVA编程思想配套视频教程 猎豹网校出品 初级部分</p><p>中级部分：JAVA编程思想配套视频教程 猎豹网校出品 中级部分</p><p>高级部分：JAVA编程思想配套视频教程 猎豹网校出品 高级部分 最终篇</p></blockquote><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>《JAVA编程思想》这本书本身就很经典，但是对于现在快节奏的工作生活节奏，大家可能没有太多的时间去啃书本。</p><p>这样一来的话，大家可以先跟着视频来学习，走一遍之后再来啃书本，就会事倍功半了!</p><p><img src="https://s2.ax1x.com/2019/10/21/KQoiqS.png" alt="KQoiqS.png"></p><p>教程一共分为三部分：</p><blockquote><p>初级部分：JAVA编程思想配套视频教程 猎豹网校出品 初级部分</p><p>中级部分：JAVA编程思想配套视频教程 猎豹网校出品 中级部分</p><p>高级部分：JAVA编程思想配套视频教程 猎豹网校出品 高级部分 最终篇</p></blockquote><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;《JAVA编程思想》这本书本身就很经典，但是对于现在快节奏的工作生活节奏，大家可能没有太多的
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;《JAVA编程思想》这本书本身就很经典，但是对于现在快节奏的工作生活节奏，大家可能没有太多的
       
     
     </summary>
@@ -73,15 +463,15 @@
     <link href="https://51siciyuan.com/posts/da78ea6c.html"/>
     <id>https://51siciyuan.com/posts/da78ea6c.html</id>
     <published>2019-10-21T03:00:51.000Z</published>
-    <updated>2019-10-21T03:05:12.998Z</updated>
+    <updated>2019-10-21T04:05:03.614Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业的面试题，以及ACM大赛的真题进行讲解每次课由以下几部分组成：1、算法精讲；2、此项算法的应用场景和案例；3、相关编程讲解（基于C/C++和Java，一般情况下会同时使用这两类编程语言进行例题讲解，学员只要会其中一种即可）。课程目的是消除瓶颈，从此面试再无心虚，工作再无心理障碍。</p><p><img src="https://s2.ax1x.com/2019/10/21/KQIJjf.png" alt="KQIJjf.png"></p><h3 id="适用人群："><a href="#适用人群：" class="headerlink" title="适用人群："></a>适用人群：</h3><p>需要弥补算法知识的程序员，架构师，设计师，分析师等，要求懂C/C++或Java编程。</p><h3 id="课程目录："><a href="#课程目录：" class="headerlink" title="课程目录："></a>课程目录：</h3><p>第1课 算法概论，程序=算法+数据结构，时间不允许的算法无任何意义，分而治之，贪心算法，大数据的挑战</p><p>第2课 从排序说起，估计算法复杂度</p><p>第3课 基本数据结构及应用，栈，队列，链表，哈希函数和哈希表</p><p>第4课 二叉树，B树，红黑树等各种树结构及其应用</p><p>第5课 面试题与ACM题选讲（1）</p><p>第6课 面试题与ACM题选讲（2）</p><p>第7课 矩阵计算问题，超巨型矩阵与稀疏矩阵的存储和计算</p><p>第8课 现实世界的信息安全原来是数论算法决定的，RSA算法</p><p>第9课 字符串匹配问题，海量字符串处理。BLAST算法与基因匹配</p><p>第10课 面试题与ACM题选讲（3）</p><p>第11课 面试题与ACM题选讲（4）</p><p>第12课 图算法及其在交换机，路由器等网络设备中的应用，最小生成树，最短路算法</p><p>第13课 运筹学算法简介，线性规划，动态规划，较大流算法</p><p>第14课 NP完备问题，千古难题NP=P？近似算法</p><p>第15课 面试题与ACM题选讲（5）</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业的面试题，以及ACM大赛的真题进行讲解每次课由以下几部分组成：1、算法精讲；2、此项算法的应用场景和案例；3、相关编程讲解（基于C/C++和Java，一般情况下会同时使用这两类编程语言进行例题讲解，学员只要会其中一种即可）。课程目的是消除瓶颈，从此面试再无心虚，工作再无心理障碍。</p><p><img src="https://s2.ax1x.com/2019/10/21/KQIJjf.png" alt="KQIJjf.png"></p><h3 id="适用人群："><a href="#适用人群：" class="headerlink" title="适用人群："></a>适用人群：</h3><p>需要弥补算法知识的程序员，架构师，设计师，分析师等，要求懂C/C++或Java编程。</p><h3 id="课程目录："><a href="#课程目录：" class="headerlink" title="课程目录："></a>课程目录：</h3><p>第1课 算法概论，程序=算法+数据结构，时间不允许的算法无任何意义，分而治之，贪心算法，大数据的挑战</p><p>第2课 从排序说起，估计算法复杂度</p><p>第3课 基本数据结构及应用，栈，队列，链表，哈希函数和哈希表</p><p>第4课 二叉树，B树，红黑树等各种树结构及其应用</p><p>第5课 面试题与ACM题选讲（1）</p><p>第6课 面试题与ACM题选讲（2）</p><p>第7课 矩阵计算问题，超巨型矩阵与稀疏矩阵的存储和计算</p><p>第8课 现实世界的信息安全原来是数论算法决定的，RSA算法</p><p>第9课 字符串匹配问题，海量字符串处理。BLAST算法与基因匹配</p><p>第10课 面试题与ACM题选讲（3）</p><p>第11课 面试题与ACM题选讲（4）</p><p>第12课 图算法及其在交换机，路由器等网络设备中的应用，最小生成树，最短路算法</p><p>第13课 运筹学算法简介，线性规划，动态规划，较大流算法</p><p>第14课 NP完备问题，千古难题NP=P？近似算法</p><p>第15课 面试题与ACM题选讲（5）</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;本课程以经典的《算法导论》一书作为蓝本，结合google，facebook，腾讯，阿里等企业
       
     
     </summary>
@@ -101,13 +491,13 @@
     <published>2019-10-20T07:24:21.000Z</published>
     <updated>2019-10-20T08:58:23.435Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>大数据启蒙必听的课程，主要讲解hadoop项目中的HDFS和MapReduce模块。分布式文件系统有很多，为什么hadoop中还要在重新开发一个HDFS分布式文件系统呢？听完这门课成您不止能感受到大数据中频繁提到的分而治之、计算向数据移动，并行计算，数据本地化等名词，同时还能通过动手实操验证所有理论知识点……</p><p><img src="https://s2.ax1x.com/2019/10/20/KK8lBn.jpg" alt="KK8lBn.jpg"></p><p><img src="https://s2.ax1x.com/2019/10/20/KK80BR.png" alt="KK80BR.png"></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>大数据启蒙必听的课程，主要讲解hadoop项目中的HDFS和MapReduce模块。分布式文件系统有很多，为什么hadoop中还要在重新开发一个HDFS分布式文件系统呢？听完这门课成您不止能感受到大数据中频繁提到的分而治之、计算向数据移动，并行计算，数据本地化等名词，同时还能通过动手实操验证所有理论知识点……</p><p><img src="https://s2.ax1x.com/2019/10/20/KK8lBn.jpg" alt="KK8lBn.jpg"></p><p><img src="https://s2.ax1x.com/2019/10/20/KK80BR.png" alt="KK80BR.png"></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;大数据启蒙必听的课程，主要讲解hadoop项目中的HDFS和MapReduce模块。分布式文
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;大数据启蒙必听的课程，主要讲解hadoop项目中的HDFS和MapReduce模块。分布式文
       
     
     </summary>
@@ -127,13 +517,13 @@
     <published>2019-10-20T07:19:50.000Z</published>
     <updated>2019-10-20T08:58:30.373Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>设计模式是工程师必备知识，也是面试高频考点。这门课程将从设计模式定义、应用到源码解析，带你系统学习设计模式，并结合大量场景 Coding，让学习不枯燥，不空洞。同时采用 Debug方式及内存分析讲解抽象程度高的设计模式，最后通过对JDK及热门开源框架中设计模式进行解析，让大家领略设计模式的妙用技巧。希望通过这门课程的学习，让大家真正学懂设计模式，并在面试中脱颖而出。</p><p><img src="https://s2.ax1x.com/2019/10/20/KK1xMj.png" alt="KK1xMj.png"></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>设计模式是工程师必备知识，也是面试高频考点。这门课程将从设计模式定义、应用到源码解析，带你系统学习设计模式，并结合大量场景 Coding，让学习不枯燥，不空洞。同时采用 Debug方式及内存分析讲解抽象程度高的设计模式，最后通过对JDK及热门开源框架中设计模式进行解析，让大家领略设计模式的妙用技巧。希望通过这门课程的学习，让大家真正学懂设计模式，并在面试中脱颖而出。</p><p><img src="https://s2.ax1x.com/2019/10/20/KK1xMj.png" alt="KK1xMj.png"></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;设计模式是工程师必备知识，也是面试高频考点。这门课程将从设计模式定义、应用到源码解析，带你系
+        &lt;!-- build time:Tue Oct 22 2019 10:56:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;设计模式是工程师必备知识，也是面试高频考点。这门课程将从设计模式定义、应用到源码解析，带你系
       
     
     </summary>
@@ -143,162 +533,6 @@
     
     
       <category term="Java" scheme="https://51siciyuan.com/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>手把手教你把Python应用到实际开发 不再空谈语法</title>
-    <link href="https://51siciyuan.com/posts/87b7a6f2.html"/>
-    <id>https://51siciyuan.com/posts/87b7a6f2.html</id>
-    <published>2019-10-20T07:17:06.000Z</published>
-    <updated>2019-10-20T08:58:12.713Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>原生爬虫—图书比价工具</p><p>其爬虫思想在电商、数据分析领域、BAT各大业务线、发展中的大中型公司中均有应用。</p><p>数据处理—Excel实现报表</p><p>在SAAS、OA领域，譬如金蝶、用友等较为常见。</p><p>API调用—微博第三方接入</p><p>在绝大多数的互联网产品的登录注册中，均有使用</p><p><img src="https://s2.ax1x.com/2019/10/20/KK1N5T.png" alt="KK1N5T.png"></p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;原生爬虫—图书比价工具&lt;/p&gt;&lt;p&gt;其爬虫思想在电商、数据分析领域、BAT各大业务线、发展中
-      
-    
-    </summary>
-    
-    
-      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
-    
-    
-      <category term="Python" scheme="https://51siciyuan.com/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python高级核心技术97讲</title>
-    <link href="https://51siciyuan.com/posts/e8c7e85e.html"/>
-    <id>https://51siciyuan.com/posts/e8c7e85e.html</id>
-    <published>2019-10-20T07:08:46.000Z</published>
-    <updated>2019-10-20T08:58:36.441Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>可以毫不夸张的说：这门课程是初中级Python开发人员向高级进阶的必学课程 许多Pythoner喜欢追求新的框架，但却不重视Python本身基础知识的学习， 他们不知道的是，语言本身的进阶优先于框架，大公司更注重语言本身的功底。万丈高楼平地起，学透了Python高级基础知识再学习其它框架，才会事半功倍，才会更好的理解和使用这些框架</p><p><img src="https://s2.ax1x.com/2019/10/20/KKlfun.png" alt="KKlfun.png"></p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;可以毫不夸张的说：这门课程是初中级Python开发人员向高级进阶的必学课程 许多Python
-      
-    
-    </summary>
-    
-    
-      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
-    
-    
-      <category term="Python" scheme="https://51siciyuan.com/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>编程必备基础知识计算机组成原理</title>
-    <link href="https://51siciyuan.com/posts/7714c98b.html"/>
-    <id>https://51siciyuan.com/posts/7714c98b.html</id>
-    <published>2019-10-20T07:05:20.000Z</published>
-    <updated>2019-10-20T08:57:43.502Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><strong>课程介绍：</strong><br>计算机基础方面的知识。对于一些非科班出身的同学来讲，一直是他们心中的痛，而对于科班出身的同学，很多同学在工作之后，也意识到自身所学知识的不足与欠缺，想回头补补基础知识。关于计算机基础的课程很多，内容繁杂，但无论是相关书籍还是大学课程，都有点脱离工作，有鉴于此，讲师结合自己多年工作经验，总结出了这套更适合程序员的计算机基础知识课程，带你更快的补足编程必备基础知识</p><p><img src="https://s2.ax1x.com/2019/10/20/KKQOTf.png" alt="KKQOTf.png"></p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;课程介绍：&lt;/strong&gt;&lt;br&gt;计算机基础方面的知识。对于一些非科班出身的同学来讲，一直是他们心中的痛，而对于科班出身的同学
-      
-    
-    </summary>
-    
-    
-      <category term="慕课" scheme="https://51siciyuan.com/categories/%E6%85%95%E8%AF%BE/"/>
-    
-    
-      <category term="计算机基础" scheme="https://51siciyuan.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大数据的统计学基础 视频教程</title>
-    <link href="https://51siciyuan.com/posts/ed843da3.html"/>
-    <id>https://51siciyuan.com/posts/ed843da3.html</id>
-    <published>2019-10-20T06:54:59.000Z</published>
-    <updated>2019-10-20T08:58:00.909Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p>课程目标：<br>本门课程的目标，正是要打破这种鸿沟，为大家巩固基础，为进一步在数据领域前进提供更强动力。统计学，被誉为是数据金字塔的“基础之基础”，统计学知识扎实，无论学习R，SAS，机器学习，数据挖掘，大数据分析等领域知识都会得心应手，省去回头补课的麻烦。</p><p><img src="https://s2.ax1x.com/2019/10/20/KKM3K1.png" alt="KKM3K1.png"></p><h3 id="适用人群："><a href="#适用人群：" class="headerlink" title="适用人群："></a>适用人群：</h3><p>这是一门数学课程，适合有志于转往大数据分析领域的非数学专业人士（例如IT人，业务人员等）补强数学基础，以更好地学习更高级的数据分析，数据挖掘，机器学习课程。</p><h3 id="课程大纲："><a href="#课程大纲：" class="headerlink" title="课程大纲："></a>课程大纲：</h3><p>第1课 面向小白的统计学：描述性统计（均值，中位数，众数，方差，标准差，与常见的统计图表）</p><p>第2课 赌博设计：概率的基本概念，古典概型</p><p>第3课 每人脑袋里有个贝叶斯：条件概率与贝叶斯公式，独立性</p><p>第4课 啊！微积分：随机变量及其分布（二项分布，均匀分布，正态分布）</p><p>第5课 万事皆由分布掌握：多维随机变量及其分布</p><p>第5课 砖家的统计学：随机变量的期望，方差与协方差</p><p>第6课 上帝之手，统计学的哲学基础：大数定律、中心极限定理与抽样分布</p><p>第8课 点数成金，从抽样推测规律之一：参数估计之点估计</p><p>第9课 点数成金，从抽样推测规律之二：参数估计之区间估计</p><p>第10课 对或错？告别拍脑袋决策：基于正态总体的假设检验</p><p>第11课 扔掉正态分布：秩和检验</p><p>第12课 预测未来的技术：回归分析</p><p>第13课 抓住表象背后那只手：方差分析</p><p>第14课 沿着时间轴前进，预测电子商务业绩：时间序列分析简介</p><p>第15课 PageRank的背后：随机过程与马尔科夫链简介</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;课程目标：&lt;br&gt;本门课程的目标，正是要打破这种鸿沟，为大家巩固基础，为进一步在数据领域前进提供更强动力。统计学，被誉为是数据金字塔的“基础之基
-      
-    
-    </summary>
-    
-    
-      <category term="炼数成金" scheme="https://51siciyuan.com/categories/%E7%82%BC%E6%95%B0%E6%88%90%E9%87%91/"/>
-    
-    
-      <category term="大数据" scheme="https://51siciyuan.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>粥左罗教你从零开始学写作</title>
-    <link href="https://51siciyuan.com/posts/3b0c0cb5.html"/>
-    <id>https://51siciyuan.com/posts/3b0c0cb5.html</id>
-    <published>2019-10-20T02:56:51.000Z</published>
-    <updated>2019-10-20T08:57:30.635Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p><img src="https://s2.ax1x.com/2019/10/20/KKKEkD.jpg" alt="KKKEkD.jpg"></p><p>不会写作，你连个简历都写不好，连个像样的求职信都写不出来，工作中写封邮件都费劲，更别提你职场中需要演讲、需要发言的时候了，你上台紧张是因为你的稿子拿不出手啊，甚至说实话你微信聊天都费劲，没重点、没逻辑、没用户意识，唧唧哇哇说半天都不能准确的表达。</p><p>说句不好听的，这个时代，你不懂写作，你连朋友圈都发不好，你转发个文章都只能配个表情，你看完一篇公众号文章心里有很多想说的但留个言都费劲，刷抖音只会评论卧槽。</p><p>会写作的人是处处有优势的，职场沟通这些都不说了，你会有很多机会上台发言、做演讲，你能有各种机会向别人展示自己。</p><p>比如现在是个社群时代，你进了社群，怎么让大家认识你，写作发言是最好的方式，没有之一，我的社群合伙人文文，就是从社群里招的，因为她参加我们的线下课接触到，因为她在社群里持续写作，让我了解到她，如果不是写作，我们就只是“微信好友”，写作是展示自己，让别人了解自己的方式。</p><p><strong>你会发现这个时代，很多东西都已经线上化、文字化、内容化了，一个不懂写作的人，像是一个失声的人，在很多本来可以表现自己、展示自己的地方都毫无存在感。</strong></p><p>……</p><p><strong>所有表达方式背后，都需要你的写作能力支撑。</strong></p><p>……</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;https://s2.ax1x.com/2019/10/20/KKKEkD.jpg&quot; alt=&quot;KKKEkD.jpg&quot;&gt;&lt;/
-      
-    
-    </summary>
-    
-    
-      <category term="新媒体" scheme="https://51siciyuan.com/categories/%E6%96%B0%E5%AA%92%E4%BD%93/"/>
-    
-    
-      <category term="写作" scheme="https://51siciyuan.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>极客时间部分已完结课程汇总(持续更新)</title>
-    <link href="https://51siciyuan.com/posts/2c0276c2.html"/>
-    <id>https://51siciyuan.com/posts/2c0276c2.html</id>
-    <published>2019-10-20T02:15:28.000Z</published>
-    <updated>2019-10-20T07:28:11.476Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --><p>01 左耳听风</p><p>02 Java核心技术36讲</p><p>03 深入浅出区块链</p><p>04 数据结构与算法之美</p><p>05 从零开始学架构</p><p>06 9小时搞定微信小程序开发</p><p>07 微服务架构核心20讲</p><p>08 零基础学Python</p><p>09 推荐系统三十六式</p><p>10 人工智能基础课</p><p>11 大咖说</p><p>12 机器学习40讲</p><p>13 快速上手Kotlin开发</p><p>14 深入浅出gRPC</p><p>15 硅谷产品实战36讲</p><p>16 React实战进阶45讲</p><p>17 持续交付36讲</p><p>18 朱赞技术管理课</p><p>19 赵成的运维体系管理课</p><p>20 如何设计一个秒杀系统</p><p>21 从零开始学游戏开发</p><p>22 深入拆解 Java虚拟机</p><p>23 技术与商业案例解读</p><p>24 如何做好一场技术演讲</p><p>25 AI技术内参</p><p>26 邱岳的产品实战</p><p>27 Cocos2d-x游戏开发</p><p>28 邱岳的产品手记</p><p>29 趣谈网络协议</p><p>30 软件测试52讲</p><p>31 从零开始学微服务</p><p>32 深入剖析Kubernetes</p><p>33 算法面试通关40讲</p><p>34 玩转VS Code</p><p>35 Go语言核心36讲</p><p>36 技术管理实战36讲</p><p>37 玩转git三剑客</p><p>38 微服务架构实战160讲</p><p>39 王天一人工智能基础课</p><p>41 Nginx核心知识100讲</p><p>42 MySQL实战45讲</p><p>43 深度学习应用实践60讲</p><p>44 从0开始学大数据</p><p>45 程序员进阶攻略</p><p>46 Android开发高手课</p><p>47 TensorFlow快速入门与实战</p><p>48 白话法律42讲</p><p>49 Go语言从入门到实战</p><p>50 代码精进之路</p><p>51 程序员的数学基础课</p><p>52 数据分析实战45讲</p><p>53 Linux性能优化实战</p><p>54 面试现场</p><p>55 玩转spring全家桶</p><p>57 Vue开发实战</p><p>58 10X程序员工作法</p><p>59 IOS开发高手课</p><p>60 技术领导力300讲</p><p>61 Java并发编程实战</p><p>62 从零开始做增长</p><p>63 大规模数据处理实战</p><p>64 编辑训练营</p><p>65 重学前端</p><p>66 深入浅出计算机组成原理</p><p>67 Linux实战性能100讲</p><p>69 透视HTTP协议</p><p>70 Kafka核心技术与实战</p><p>71 Web协议详解与抓包实战</p><p>72 Java性能调优实战</p><p>73 零基础学Java</p><p>74 深入拆解Tomcat_Jetty</p><p>75 从0开发一款iOS APP</p><p>76 玩转webpack</p><p>77 OpenResty从入门到实战</p><p>78 黄勇的OKR实战笔记</p><p>79 TypeScript开发实战</p><p>80 Spring Boot与Kubernetes云原生微服务实践</p><p>81 Elasticsearch核心技术与实战</p><p>82 说透中台</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Oct 21 2019 12:05:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;01 左耳听风&lt;/p&gt;&lt;p&gt;02 Java核心技术36讲&lt;/p&gt;&lt;p&gt;03 深入浅出区块链&lt;/p&gt;&lt;p&gt;04 数据结构与算法之美&lt;/p&gt;&lt;p&gt;0
-      
-    
-    </summary>
-    
-    
-      <category term="Geek" scheme="https://51siciyuan.com/categories/Geek/"/>
-    
-    
-      <category term="置顶" scheme="https://51siciyuan.com/tags/%E7%BD%AE%E9%A1%B6/"/>
     
   </entry>
   
